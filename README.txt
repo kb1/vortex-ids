@@ -1,0 +1,1 @@
+Vortex is the core utility and the vortex downloads also include related stuff like the xpipes program. libBSF is a stream filtering library that vortex can use. If you download RPMs for vortex, you'll need to download libBSF also. If you download the tarball, libBSF is optional but recommended.
